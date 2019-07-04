@@ -19,7 +19,7 @@ In this section we see the different metrics used for classification and Regress
 
 5 - Training Tunng
 
-In this section we will optimize our model by using hyperparameter tunning for different alogorithms.
+In this section we will optimize our model by performing hyperparameter tunning for different alogorithms.
 
 
 
